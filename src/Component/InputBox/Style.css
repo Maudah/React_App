@@ -1,0 +1,13 @@
+.chooseFileStyle {
+  cursor: pointer;
+  display: flex;
+  font-size: 12px;
+  width: 102px;
+  height: 32px;
+  border-radius: 3px;
+  color: #FFFFFF;
+  background-color: #000000;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
